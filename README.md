@@ -1,7 +1,6 @@
 ## 図書館マップ
 
-![image]
-(https://user-images.githubusercontent.com/49638956/95669809-7d132d80-0bbf-11eb-8264-e551d3d7c98a.png)
+![image](https://user-images.githubusercontent.com/49638956/95669809-7d132d80-0bbf-11eb-8264-e551d3d7c98a.png)
 
 #### 概要
 ユーザが入力した本の蔵書が有る図書館を検索し，その図書館の情報の取得，またマップ上でその位置を示す．
